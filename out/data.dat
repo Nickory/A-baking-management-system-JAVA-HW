@@ -1,0 +1,153 @@
+INGREDIENT, Bird egg, from birds,175.0
+INGREDIENT, Cabbage, common vegetable,23.0
+INGREDIENT, Cheese, from processed milk,350.0
+INGREDIENT, Cone, nut,550.0
+INGREDIENT, Fish, tender and delicious,140.0
+INGREDIENT, Jam, from fruit,278.0
+INGREDIENT, Meat, from animals,200.0
+INGREDIENT, Milk, from cows,68.0
+INGREDIENT, Raspberry, rich in VC,52.0
+INGREDIENT, Shrimp, rich in protein,48.0
+INGREDIENT, Tomato, common vegetable,19.0
+INGREDIENT,Butter , animal fat,725.0
+INGREDIENT,Flour,from wheat,360.0
+INGREDIENT,Matsutake,rare edible fungi,275.0
+INGREDIENT,Mushroom , edible ,24.0
+INGREDIENT,Onion,common vegetable,39.0
+INGREDIENT,Potato,common vegetable,81.0
+INGREDIENT,Salt,condiment,0.0
+RECIPE,Fisherman's toast,3393.0
+Salt,3.0
+Flour,3.0
+ Fish,3.0
+ Tomato,2.0
+Flour,3.0
+
+RECIPE,Chinese sweetmeats,3393.0
+Salt,3.0
+Flour,3.0
+ Fish,3.0
+ Meat,3.0
+
+RECIPE,Shrimp balls with golden shreds,12847.0
+ Bird egg,4.0
+Flour,2.0
+ Raspberry,3.0
+ Cone,2.0
+Mushroom ,4.0
+ Jam,1.0
+Potato,1.0
+ Raspberry,3.0
+ Bird egg,2.0
+ Shrimp,5.0
+Potato,4.0
+
+RECIPE,Manor baked muffins,12847.0
+ Bird egg,4.0
+Flour,2.0
+ Raspberry,3.0
+ Cone,2.0
+Mushroom ,4.0
+ Cone,2.0
+ Jam,1.0
+Potato,1.0
+
+RECIPE,Mond potato cake,12847.0
+ Bird egg,4.0
+Flour,2.0
+ Raspberry,3.0
+Matsutake,3.0
+ Meat,1.0
+
+RECIPE,Baked mushroom pizza,12847.0
+ Bird egg,4.0
+Flour,2.0
+ Raspberry,3.0
+ Cone,2.0
+Flour,3.0
+Butter ,3.0
+Matsutake,3.0
+ Meat,1.0
+Flour,2.0
+ Cheese,2.0
+ Cabbage,2.0
+Flour,3.0
+Mushroom ,4.0
+ Cone,2.0
+ Jam,1.0
+Potato,1.0
+ Raspberry,3.0
+ Bird egg,2.0
+Flour,2.0
+ Shrimp,5.0
+Potato,4.0
+
+RECIPE,Mora meat,12847.0
+ Bird egg,4.0
+Flour,2.0
+ Raspberry,3.0
+ Cone,2.0
+Flour,3.0
+Butter ,3.0
+Matsutake,3.0
+ Meat,1.0
+Flour,2.0
+ Cheese,2.0
+ Cabbage,2.0
+Flour,3.0
+Mushroom ,4.0
+ Cone,2.0
+ Jam,1.0
+Potato,1.0
+ Raspberry,3.0
+ Bird egg,2.0
+Flour,2.0
+ Shrimp,5.0
+Potato,4.0
+
+RECIPE,Matsutake with butter,12847.0
+ Bird egg,4.0
+Flour,2.0
+ Raspberry,3.0
+ Cone,2.0
+Flour,3.0
+Butter ,3.0
+Matsutake,3.0
+ Meat,1.0
+Flour,2.0
+ Cheese,2.0
+ Cabbage,2.0
+Flour,3.0
+Mushroom ,4.0
+ Cone,2.0
+ Jam,1.0
+Potato,1.0
+ Raspberry,3.0
+ Bird egg,2.0
+Flour,2.0
+ Shrimp,5.0
+Potato,4.0
+
+RECIPE,Thick cloud muffins,12847.0
+ Bird egg,4.0
+Flour,2.0
+ Raspberry,3.0
+ Cone,2.0
+Flour,3.0
+Butter ,3.0
+Matsutake,3.0
+ Meat,1.0
+Flour,2.0
+ Cheese,2.0
+ Cabbage,2.0
+Flour,3.0
+Mushroom ,4.0
+ Cone,2.0
+ Jam,1.0
+Potato,1.0
+ Raspberry,3.0
+ Bird egg,2.0
+Flour,2.0
+ Shrimp,5.0
+Potato,4.0
+
